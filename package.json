@@ -1,0 +1,27 @@
+{
+  "name": "namespacing-dist",
+  "version": "1.0.0",
+  "description": "small tool to make easy implement the namespacing pattern.",
+  "main": "dist/namespacing.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModestoFiguereo/namespacing-dist.git"
+  },
+  "keywords": [
+    "namespace",
+    "namespacing",
+    "pattern"
+  ],
+  "author": "Modesto Figuereo Fernandez <figuereo.fernandez.modesto@gmail.com> (http://www.modestofiguereo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModestoFiguereo/namespacing-dist/issues"
+  },
+  "homepage": "https://github.com/ModestoFiguereo/namespacing-dist#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
