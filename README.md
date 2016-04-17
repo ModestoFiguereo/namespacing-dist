@@ -4,9 +4,6 @@ Is small tool to make easy implement the namespacing pattern.
 
 ## Installation
 
-download `dist/namespacing.min.js` from this repo:
-https://github.com/ModestoFiguereo/namespacing-dist
-
 bower:
 ```sh
 bower install --save namespacing
