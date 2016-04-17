@@ -4,12 +4,11 @@ Is small tool to make easy implement the namespacing pattern.
 
 ## Installation
 
-bower:
+- bower:
 ```sh
 bower install --save namespacing
 ```
-
-npm:
+- npm:
 ```sh
 npm install --save namespacing
 ```
